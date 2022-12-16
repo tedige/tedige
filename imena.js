@@ -42,6 +42,6 @@ function sendData() {
         error = true;
     }
     if (error === false) {
-        window.location.href = "/second/index.html";
+        window.location.href = "index.html";
     }
 }
